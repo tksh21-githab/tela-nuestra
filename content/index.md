@@ -1,3 +1,3 @@
 ---
-title: Welcome to Quartz — publicaciones tela nuestra
+title: bienvenidxs — publicaciones tela nuestra
 ---
